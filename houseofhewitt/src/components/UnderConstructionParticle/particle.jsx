@@ -13,7 +13,7 @@ function Particle() {
   }, []);
 
   return (
-    <div style={{ height: '100%' }}>
+    <div style={{ height: '100%', width: '100%' }}>
       <CSSTransition
         in={showText}
         timeout={1500}
@@ -22,14 +22,14 @@ function Particle() {
         <div className="animated"
           style={{
             position: 'absolute',
-            top: '45%',
-            left: '42%',
+            textAlign: 'center',
+            top: '50%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)',
             opacity: '0'
           }}>
 
-          <div style={{ textAlign: 'center', marginBottom: '0' }}>
-            <img src={constructionIcon} style={{ height: '78px', width: '75px', filter: 'invert(1)' }} alt="under-construction" />
-          </div>
+          <img src={constructionIcon} style={{ width: '15%', filter: 'invert(1)' }} alt="under-construction" />
 
           <h3 style={{ color: 'white', marginTop: '0' }}>Under Construction</h3>
         </div>
