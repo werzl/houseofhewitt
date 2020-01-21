@@ -8,8 +8,9 @@
 # testing
 /coverage
 
+# TODO: Uncomment
 # production
-/build
+#/build
 
 # misc
 .DS_Store
