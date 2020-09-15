@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/houseofhewitt/static/css/main.5cac40c2.chunk.css",
+    "main.js": "/houseofhewitt/static/js/main.b19c27b8.chunk.js",
+    "main.js.map": "/houseofhewitt/static/js/main.b19c27b8.chunk.js.map",
+    "runtime-main.js": "/houseofhewitt/static/js/runtime-main.e82cfd9f.js",
+    "runtime-main.js.map": "/houseofhewitt/static/js/runtime-main.e82cfd9f.js.map",
+    "static/js/2.8e834b84.chunk.js": "/houseofhewitt/static/js/2.8e834b84.chunk.js",
+    "static/js/2.8e834b84.chunk.js.map": "/houseofhewitt/static/js/2.8e834b84.chunk.js.map",
+    "index.html": "/houseofhewitt/index.html",
+    "precache-manifest.4045d57bc43bb943ffe616a90475d7f6.js": "/houseofhewitt/precache-manifest.4045d57bc43bb943ffe616a90475d7f6.js",
+    "service-worker.js": "/houseofhewitt/service-worker.js",
+    "static/css/main.5cac40c2.chunk.css.map": "/houseofhewitt/static/css/main.5cac40c2.chunk.css.map",
+    "static/js/2.8e834b84.chunk.js.LICENSE.txt": "/houseofhewitt/static/js/2.8e834b84.chunk.js.LICENSE.txt",
+    "static/media/construction-icon.png": "/houseofhewitt/static/media/construction-icon.fbfdae91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82cfd9f.js",
+    "static/js/2.8e834b84.chunk.js",
+    "static/css/main.5cac40c2.chunk.css",
+    "static/js/main.b19c27b8.chunk.js"
+  ]
+}
